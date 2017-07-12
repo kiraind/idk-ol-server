@@ -1,0 +1,186 @@
+{
+  "userId": 0,
+  "currency": "rub",
+  "lists": [
+    {
+      "id": 0,
+      "isPinned": false,
+      "title": "Some sample list with very long title long as idk what ghdfh  gfhd fgh gfdhfg",
+      "sortByTitle": 0,
+      "sortByPrice": 0,
+      "sortByCompletion": 0,
+      "tasks": [
+        {
+          "id": 0,
+          "title": "Dog food can",
+          "description": "Gotta be tasty i guess #🐕 #🍕",
+          "tags": [ "🐕", "🍕" ],
+          "link": "www.dog.com",
+          "quantity": 3,
+          "price": 150.5,
+          "isCompleted": false
+        },
+        {
+          "id": 1,
+          "title": "Dog toys",
+          "description": "Gotta be tasty i guess #🐕 #blahblahblah",
+          "tags": [ "🐕", "blahblahblah" ],
+          "link": "www.dog.com",
+          "quantity": 2,
+          "price": 500,
+          "isCompleted": false
+        },
+        {
+          "id": 2,
+          "title": "Graphics card for my bitcoin farm",
+          "description": "wanna moar bitcons #💰 'cause i'm a bit #stupid",
+          "tags": [ "💰", "stupid" ],
+          "link": "",
+          "quantity": 4,
+          "price": 400000,
+          "isCompleted": false
+        },
+        {
+          "id": 3,
+          "title": "Gosha Rubchinskiy t-shirt",
+          "description": "that one with chineese flag #💰 👕",
+          "tags": [ "💰", "👕" ],
+          "link": "gosharubchinskiy.com",
+          "quantity": 2,
+          "price": 10000,
+          "isCompleted": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "isPinned": true,
+      "title": "Красочки",
+      "sortByTitle": 1,
+      "sortByPrice": 1,
+      "sortByCompletion": 1,
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Стронциановая жёлтая",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 150,
+          "isCompleted": false
+        },
+        {
+          "id": 2,
+          "title": "Охра светлая",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 150,
+          "isCompleted": true
+        },
+        {
+          "id": 3,
+          "title": "Кадмий жёлтый средний",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": true
+        },
+        {
+          "id": 4,
+          "title": "Кадмий оранжевый",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 150,
+          "isCompleted": false
+        },
+        {
+          "id": 5,
+          "title": "Охра красная",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": false
+        },
+        {
+          "id": 6,
+          "title": "Сиена жженная",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": true
+        },
+        {
+          "id": 7,
+          "title": "Сиена натуральная",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": false
+        },
+        {
+          "id": 8,
+          "title": "Английская красная",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": false
+        },
+        {
+          "id": 9,
+          "title": "Карплак красный",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": false
+        },
+        {
+          "id": 10,
+          "title": "Умбра жженная",
+          "description": "",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": false
+        },
+        {
+          "id": 11,
+          "title": "Черная (сажа газовая)",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": false
+        },
+        {
+          "id": 12,
+          "title": "Индиго черная",
+          "description": "#🎨",
+          "tags": [ "🎨" ],
+          "link": "",
+          "quantity": 1,
+          "price": 159,
+          "isCompleted": false
+        }
+      ]
+    }
+  ]
+}
